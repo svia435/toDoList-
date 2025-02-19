@@ -76,7 +76,7 @@ export async function ubahtoDoList (docId, nama, status, prioritas, tanggal,) {
     nama: nama,
     status: status,
     prioritas: prioritas,
-    tanggal: tanggal,
+    tanggal: tanggal
   });
 }
 //fungsi untuk ambil data dan untuk diubah
